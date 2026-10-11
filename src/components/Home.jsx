@@ -162,7 +162,7 @@ const Home = () => {
           <input type='file' ref={fileInputRef} style={{ display: 'none' }} onChange={handleFileChange} />
           <div className="absolute bottom-0    p-4 rounded-md shadow-md">
             <h1 className="text-2xl font-bold mb-2"> Chatsapp</h1>
-            <p className="text-lg"><span className='font-semibold'>Developer</span>: Ankit Prajapat</p>
+            
           </div>
         </div>
       }
